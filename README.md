@@ -1,7 +1,7 @@
 # EX-5-Simulation-of-DAC-R-2R-LADDER-NETWORK-USING-LTSPICE
 ## 5.SIMULATION OF DAC CONVERTER ( R-2R NETWORK)  USING LT- SPICE
             
-**DATE:** 26/10/2025 
+**DATE:**  
 
 
 ## AIM  : To simulate the performance of R-2R  circuits using LT- SPICE                
@@ -20,27 +20,25 @@
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-28 at 22 50 54_129f162a](https://github.com/user-attachments/assets/ba5dcb10-fe44-4d33-bdc7-cd7841eec011)
-
+![WhatsApp Image 2025-11-30 at 17 06 52_13694c46](https://github.com/user-attachments/assets/366a25fa-2403-43f8-9dec-e3e6ccb09422)
 
 ---
 ## MODEL GRAPH
 <img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/9c8388ab-fc82-4d9a-86ea-1327b148596b" />
-<img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
-
-DESIGN:
-
-![WhatsApp Image 2025-11-28 at 22 51 57_9e987d31](https://github.com/user-attachments/assets/05817303-83ec-4a02-8b10-5d19842791bb)
-
+<!-- <img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" /> -->>
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
-![WhatsApp Image 2025-11-28 at 22 52 33_57aa2312](https://github.com/user-attachments/assets/8e83e5d5-c918-4ada-84b1-a775f2d45ab0)
-
-<img width="720" height="685" alt="image" src="https://github.com/user-attachments/assets/5cbb715d-063e-46da-9189-baffe2d6fc7e" />
+![WhatsApp Image 2025-12-05 at 22 27 47_2f622162](https://github.com/user-attachments/assets/a7083f4a-709e-4849-8f81-01c92cf15164)
 
 ---
+## DESIGN AND CALCULATION
+![WhatsApp Image 2025-12-05 at 22 35 47_d2b65802](https://github.com/user-attachments/assets/64051ca2-9bf1-4caa-b4bf-396463b783b5)
+
+![WhatsApp Image 2025-12-05 at 22 27 25_383b93fa](https://github.com/user-attachments/assets/432785c9-5310-4536-a85b-6636b2983ff7)
+
+
+
 ##RESULT:
 Thus the LTspice tools has studied and simulated the performance of R-2R  circuits.
 ---
